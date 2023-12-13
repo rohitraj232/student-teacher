@@ -4,7 +4,7 @@ How to run the student teacher appointment System Project Using PHP and MySQL
 
 1.Download the zip file
 
-2.Extract the file and copy student-teacher folder
+2.Extract the file and copy teacher-student folder
 
 3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
