@@ -14,7 +14,7 @@ How to run the student teacher appointment System Project Using PHP and MySQL
 
 6.Import details(1).sql file(given inside the zip package in SQL file folder)
 
-7.Run the script http://localhost/gym
+7.Run the project
 
 ## Admin Credential 
 Username: 1 
